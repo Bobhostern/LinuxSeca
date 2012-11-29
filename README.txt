@@ -11,4 +11,7 @@ Editor.rb is simply a barely functional editor for these two files. Do to it as 
 
 The defaults are minimal.
 
+Also, ignore any files ending in ~, such as answers.rsbin2~. (hint, hint) 
+They are simply the gedit backups, as I use Linux.
+
 ~~Bobhostern
