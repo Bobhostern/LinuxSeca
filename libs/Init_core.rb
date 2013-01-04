@@ -48,4 +48,8 @@ module Init
 		else
 		end
 	end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 3f177042cedc2a5d5dcc0a6704d036d0777d3606
