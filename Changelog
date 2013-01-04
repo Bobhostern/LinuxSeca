@@ -1,0 +1,10 @@
+||CHANGES||
+Separated the one file Test.rb into one execution file, Test.rb, and the files
+that simply help to run this file.
+They are:
+Check.rb
+Init_core.rb
+Error.rb
+Result.rb
+Test_core.rb
+They are located in the libs folder.
