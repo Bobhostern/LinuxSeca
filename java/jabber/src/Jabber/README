@@ -1,0 +1,7 @@
+INSTRUCTIONS ON BUILDING FROM SOURCE
+====================================
+To build from source, download on of
+the archives, extract it, and run
+"ant" in the top directory. All of
+the stuff should appear in the 
+"dist" directory.
