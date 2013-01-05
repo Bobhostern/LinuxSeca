@@ -1,0 +1,9 @@
+Jabber is simply the name of the Java implementation of LinuxSeca.
+It uses a Java library that I am making (and have yet to Javadoc), REMJava,
+and there is one small change.
+The "lib" folder of LinuxSeca is changed to "libx". It's just a small name
+change to prevent conflicts with Jabber's "lib" folder, which is where
+it places REMJava.
+Well, ciao!
+
+~~Bobhostern
