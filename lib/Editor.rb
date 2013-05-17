@@ -39,9 +39,7 @@ class Writer
 	  if answered == 1
 	    Writer.write
 	  elsif answered == 2
-	  else
 	  end
-    else
 	end
   end
 end
